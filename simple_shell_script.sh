@@ -1,2 +1,1 @@
-date
-curl --head http://ec2-52-91-196-35.compute-1.amazonaws.com
+curl -- error --head http://ec2-52-91-196-35.compute-1.amazonaws.com 
