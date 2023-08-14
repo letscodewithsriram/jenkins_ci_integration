@@ -1,2 +1,2 @@
-date
-curl --head -k https://ec2-3-83-38-48.compute-1.amazonaws.com
+curl -- error --head http://ec2-52-91-196-35.compute-1.amazonaws.com 
+
